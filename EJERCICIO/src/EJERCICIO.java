@@ -37,6 +37,9 @@ public class EJERCICIO {
         System.out.println("Dirección: Colonia El Oasis, Zona 8, Huehuetenango");
         System.out.println("Telefono: 42252923");
         
+        System.out.println("Jocsan Abisaí López González");
+        System.out.println("Zona 11, Huehuetenango, Huehuetenango");
+        System.out.println("56158681");
     }
     
 }
